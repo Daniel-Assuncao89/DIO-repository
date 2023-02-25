@@ -1,4 +1,4 @@
-package edu.daniel.javabasico;
+package edu.daniel.javabasico.repeticao;
 
 import java.util.Random;
 import java.util.Scanner;

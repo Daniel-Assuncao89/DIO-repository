@@ -1,4 +1,4 @@
-package edu.daniel.javabasico;
+package edu.daniel.javabasico.repeticao;
 
 public class Aplicacao {
     public static void main(String[] args) {
