@@ -3,7 +3,7 @@ package edu.daniel.javabasico.estruturadedados.pilha;
 public class No {
 
     private int dado;
-    private No referenciaNo = null;
+    private No referenciaNo = null; // primeiro nó sempre irá apontar pra null
 
     public No() {
     }
