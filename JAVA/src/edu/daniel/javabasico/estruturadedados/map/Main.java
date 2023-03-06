@@ -21,7 +21,7 @@ public class Main {
         System.out.println(aluno.keySet()); // retorna o grupo de chaves
         System.out.println(aluno.values()); // retorna o grupo de valores
 
-        List<Map<String, String>> listaAlunos = new ArrayList<>(); //Cria uma lista com Map
+        List<Map<String, String>> listaAlunos = new ArrayList<>(); //Cria uma lista com ExemploMap
 
         listaAlunos.add(aluno);
 
