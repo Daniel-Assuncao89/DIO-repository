@@ -6,8 +6,9 @@ Temas Abordados:
     Com if/else, while/do, do/while, for, foreach e array
     
 - POO:
-    Com chamada de metodos, herança, overloading, overwriting e polimorfismo.
+    Com chamada de metodos, herança, encapsulamento, overloading, overwriting e polimorfismo.
     Tipo e finalidade dos estados de classe (Static, Abstract, Interface)
+    Modificadores de acesso ( public, privated e protected)
 - Collections:
     Com list, map, set e streamAPI.
     
