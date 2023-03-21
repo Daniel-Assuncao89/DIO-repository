@@ -17,3 +17,6 @@ Temas Abordados:
     
 - Teste unitarios com JUnit e maven:
     After, Before, Assertions, Assumptions, Condicionais e Exceptions
+
+- Framework Spring:
+    Spring web, security, validations e JPA
